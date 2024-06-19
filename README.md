@@ -1,6 +1,6 @@
 # Deploying My First Contract
 
-I have progressively added functionality to my Solidity contract by adding features like storing a favorite number, typing person, public list, favorite number retrieval, and update functions, I’ve built a solid contract structure. Now, it’s time to deploy this to a real testnet.
+I have progressively added functionality to my Solidity contract by adding features like storing a favorite number, public list, favorite number retrieval, and update functions. I’ve built a solid contract structure. Now, it’s time to deploy this to a real testnet.
 
 ## Compilation Check
 
